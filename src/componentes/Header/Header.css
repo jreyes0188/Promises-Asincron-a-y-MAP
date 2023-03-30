@@ -1,0 +1,15 @@
+.Header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    flex-direction: column;
+    height: 45vh;
+    color: white;
+    width: 100%;
+}
+
+.Header img {
+    margin-bottom: 35px;
+}
+
